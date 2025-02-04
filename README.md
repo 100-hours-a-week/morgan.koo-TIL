@@ -4,8 +4,8 @@
 
 # 목차
 
-    - [January](#-january)
-    - [February](#-february)
+- [January](#January)
+- [February](#February)
 
 ## ✨ January
 - 2025.01.21 **리눅스의 이해** -> [🔗](Jan/2025-01-21.md)
