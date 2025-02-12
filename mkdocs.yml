@@ -5,7 +5,7 @@ repo_url: "https://github.com/100-hours-a-week/morgan.koo-TIL"
 theme:
   name: "material"
 
-docs_dir: "."
+docs_dir: "docs"
 
 nav:
   - Home: README.md
